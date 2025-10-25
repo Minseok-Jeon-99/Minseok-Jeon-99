@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Minseok-Jeon-99/Minseok-Jeon-99/main/assets/ascii_logo.png" width="800">
+<pre>
+  ___ ___ .__      .___/\           _____  .__                            __    
+ /   |   \|__|     |   )/_____     /     \ |__| ____   ______ ____  ____ |  | __
+/    ~    \  |     |   |/     \   /  \ /  \|  |/    \ /  ___// __ \/  _ \|  |/ /
+\    Y    /  |     |   |  Y Y  \ /    Y    \  |   |  \\___ \\  ___(  <_> )    < 
+ \___|_  /|__| /\  |___|__|_|  / \____|__  /__|___|  /____  >\___  >____/|__|_ \
+       \/      )/            \/          \/        \/     \/     \/           \/
+</pre>
 </div>
 <br><div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
