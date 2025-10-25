@@ -29,7 +29,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        ![Minseok-Jeon-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseok-Jeon-99&show_icons=true&theme=gruvbox)
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseok-Jeon-99&layout=compact&theme=gruvbox)
+    <img src="https://github-readme-stats.vercel.app/api?username=Minseok-Jeon-99&show_icons=true&theme=gruvbox&count_private=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minseok-Jeon-99&layout=compact&theme=gruvbox" height="165"/>
     </div>
     
