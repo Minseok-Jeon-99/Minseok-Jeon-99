@@ -1,7 +1,16 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=98c289&height=120&text=Hi,%20I'm%20Minseok&animation=&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div align= "center"> 
+<div align="center">
+  <!-- 🧱 ASCII 아트 로고 -->
+  <br>
+  
+```text
+  ___ ___ .__      .___/\           _____  .__                            __    
+ /   |   \|__|     |   )/_____     /     \ |__| ____   ______ ____  ____ |  | __
+/    ~    \  |     |   |/     \   /  \ /  \|  |/    \ /  ___// __ \/  _ \|  |/ /
+\    Y    /  |     |   |  Y Y  \ /    Y    \  |   |  \\___ \\  ___(  <_> )    < 
+ \___|_  /|__| /\  |___|__|_|  / \____|__  /__|___|  /____  >\___  >____/|__|_ \
+       \/      )/            \/          \/        \/     \/     \/           \/
+```
+<br><div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> “복잡한 문제를 구조로 정리하고, 구조를 시스템으로 완성하는 사람.”</li></li><li> 데이터를 다루든, 모델을 만들든, 저는 언제나 ‘이해 가능한 구조’를 찾는 데서 시작합니다.</li><li> 기술은 저에게 목적이 아니라 사고를 구현하는 언어이며, 더 나은 방식을 설계하기 위한 도구입니다. </div> 
     </div>
