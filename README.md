@@ -29,7 +29,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:wjsalstjr9933@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjsalstjr9933@gmail.com"> </a>
-         <a href=https://www.notion.so/1e99341a0b8b8022af5ff8d2c2426c7a> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://abrasive-show-31b.notion.site/2e29341a0b8b8066b480d7da80677277"> </a>
+         <a href=https://abrasive-show-31b.notion.site/2e29341a0b8b8066b480d7da80677277> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://abrasive-show-31b.notion.site/2e29341a0b8b8066b480d7da80677277"> </a>
          <a href=https://velog.io/@jesper_ch/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jesper_ch/posts"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
